@@ -1,0 +1,32 @@
+{
+  "submissions": [
+    {
+      "name": "Abhijeet Singh",
+      "email": "abhi@gmail.com",
+      "phone": "79059211",
+      "github_link": "https://github.com/Abhijeetcodev",
+      "stopwatch_time": "00:00:08.0854746"
+    },
+    {
+      "name": "Shivam",
+      "email": "abhi@gmail.com",
+      "phone": "79059211",
+      "github_link": "https://github.com/Abhijeetcodev",
+      "stopwatch_time": "00:00:07.0954746"
+    },
+    {
+      "name": "shivam",
+      "email": "shivam@gmail.com",
+      "phone": "79059276",
+      "github_link": "https://github.com/Abhijeetcodev",
+      "stopwatch_time": "00:00:12.4962080"
+    },
+    {
+      "name": "Abhijeet Singh",
+      "email": "g@gmail.com",
+      "phone": "80999787",
+      "github_link": "https://github.com/Abhijeetcodev",
+      "stopwatch_time": "00:00:15.7156841"
+    }
+  ]
+}
